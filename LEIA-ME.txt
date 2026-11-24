@@ -1,0 +1,1 @@
+Abra a pasta no VS Code. Abra index.html no navegador ou utilize Live Server. Para publicar, envie toda a pasta (index.html, style.css, script.js e assets) ao serviço de hospedagem. O site ainda não está publicado.
